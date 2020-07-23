@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_radius">20dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <dimen name="height_top_node">40dp</dimen>
+    <dimen name="node_distance">24dp</dimen>
+</resources>
